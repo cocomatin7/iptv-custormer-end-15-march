@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1,supersport 3
+http://iptv-line.com:7899/eltonjohn/0752590661/48743
+#EXTINF:-1,supersport 7
+http://iptv-line.com:7899/eltonjohn/0752590661/48739
+#EXTINF:-1,supersport 8
+http://iptv-line.com:7899/eltonjohn/0752590661/48738
+#EXTINF:-1,supersport 9
+http://iptv-line.com:7899/eltonjohn/0752590661/48737
+#EXTINF:-1,maisha magic east
+http://iptv-line.com:7899/eltonjohn/0752590661/55289
+#EXTINF:-1,mnet
+http://iptv-line.com:7899/eltonjohn/0752590661/55399
+#EXTINF:-1,mnet movies premiere
+http://iptv-line.com:7899/eltonjohn/0752590661/55394
+#EXTINF:-1,mnet plus 1
+http://iptv-line.com:7899/eltonjohn/0752590661/55402
+#EXTINF:-1,wwe superslam
+http://iptv-line.com:7899/eltonjohn/0752590661/55378
+#EXTINF:-1,MNET CITY
+http://iptv-line.com:7899/eltonjohn/0752590661/55414
+
+
+
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
 https://1151586843.rsc.cdn77.org/1151586843/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 2
