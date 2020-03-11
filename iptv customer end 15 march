@@ -1,4 +1,10 @@
 #EXTM3U
+EXTINF:-1,supersport 3
+http://iptv-line.com:7899/D3qnZFwGlD/kidh7757xS/48743
+#EXTINF:-1,supersport 5
+http://iptv-line.com:7899/D3qnZFwGlD/kidh7757xS/48741
+
+
 
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
 https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
