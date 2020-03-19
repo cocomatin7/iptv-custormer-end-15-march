@@ -1,1 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
+https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
+#EXTINF:-1,channel ten
+http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://startv.co.tz/startvweb//templates/startvtemplate/images/startv.png" group-title="Tanzania",Star TV
+https://c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com/out/v1/1d3644d62aa24a7faa517fa2ee4dfb36/index_5.m3u8
+#EXTINF:-1,safari tv
+https://live-tanzaniasafari2020.cdnvideo.ru/tanzaniasafari2020/tanzaniasafari2020/playlist.m3u8
+#EXTINF:-1,channel ten
+http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 
